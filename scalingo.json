@@ -1,0 +1,6 @@
+{
+  "name": "Bank API",
+  "description": "A quick and dirty Go Twitter API",
+  "repository": "https://github.com/openwt/bankapi",
+  "keywords": ["go", "twitter", "api", "test"]
+}
